@@ -38,10 +38,6 @@ I'm always looking to make new friends and connect with people from all over! Dr
 <span style="display: inline;">
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="☁️" width="32" height="32">
 </span>
-<span style="display: inline;">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="☁️" width="160" height="160">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="☁️" width="32" height="32">
-</span>
 
 <!--
 ## Hi there 👋
