@@ -7,15 +7,15 @@ Mi nombre es Angeles y soy una latina de primera generación, haciendo mi maestr
 
 ---
 
-### ☕ Hobbies & Interests:
-- reading 
-- Running 
-- hiking 
-- listening to music 🎵
+### ✨ Hobbies & Interests:
+When I'm not working, you can find me running, listening to music and making playlists on spotify, hiking, or learning chess on Duolingo.
 
-### 📫 Reach me:
-- [Email](amarinba@nd.edu)
-- [LinkedIn](https://www.linkedin.com/in/angeles-marin-batana/)
+### 💌 Let's chat:
+I'm always looking to make new friends and connect with people from all over! Drop me a message or connect if you'd like to collaborate!
+
+☁️ -[Email](amarinba@nd.edu)
+
+☁️ -[LinkedIn](https://www.linkedin.com/in/angeles-marin-batana/)
 
 
 
