@@ -1,24 +1,47 @@
 
-# Hola, qué tal? <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f338/512.webp" type="image/webp">  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f338/512.gif" alt="🌸" width="32" height="32">
-Mi nombre es Angeles y soy una latina de primera generación, haciendo mi maestría en informática e ingeniería en **University of Notre Dame** 🎓
+# Hola, qué tal? 😄
 
-- **Background**: B.S Computer Science; B.S Spanish; Sociology minor
-- **Research focus:** responsible & aligned ML systems
+### Mi nombre es **Angeles** y soy una **latina** de **primera generación**, haciendo mi **maestría** en informática e ingeniería en **University of Notre Dame**
 
----
+- 🌸 **Background**: B.S Computer Science; B.S Spanish; Sociology minor
+- 🌸 **Research focus:** responsible & aligned ML systems
+
+~~
 
 ### ✨ Hobbies & Interests:
 When I'm not working, you can find me running, listening to music and making playlists on spotify, hiking, or learning chess on Duolingo.
 
+~~
+
 ### 💌 Let's chat:
 I'm always looking to make new friends and connect with people from all over! Drop me a message or connect if you'd like to collaborate!
 
-☁️ -[Email](amarinba@nd.edu)
+ → [Email](amarinba@nd.edu)
+ 
+ → [LinkedIn](https://www.linkedin.com/in/angeles-marin-batana/)
 
-☁️ -[LinkedIn](https://www.linkedin.com/in/angeles-marin-batana/)
+~~
 
+<span style="display: inline;">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="☁️" width="32" height="32">
+</span>
+<span style="display: inline;">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="☁️" width="160" height="160">
+</span>
+<span style="display: inline;">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="☁️" width="32" height="32">
 
-
+</span>
+<span style="display: inline;">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="☁️" width="160" height="160">
+</span>
+<span style="display: inline;">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="☁️" width="32" height="32">
+</span>
+<span style="display: inline;">
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="☁️" width="160" height="160">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="☁️" width="32" height="32">
+</span>
 
 <!--
 ## Hi there 👋
