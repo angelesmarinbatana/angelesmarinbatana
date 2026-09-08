@@ -20,34 +20,8 @@ I'm always looking to make new friends and connect with people from all over! Dr
  
  → [LinkedIn](https://www.linkedin.com/in/angeles-marin-batana/)
 
-~~
 
-<span style="display: inline;">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="☁️" width="32" height="32">
-</span>
 
-<span style="display: inline;">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="☁️" width="160" height="160">
-</span>
-
-<span style="display: inline;">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="☁️" width="32" height="32">
-</span>
-
-<span style="display: inline;">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="☁️" width="160" height="160">
-</span>
-
-<span style="display: inline;">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="☁️" width="32" height="32">
-</span>
-<span style="display: inline;">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="☁️" width="160" height="160">
-</span>
-
-<span style="display: inline;">
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2601/512.gif" alt="☁️" width="32" height="32">
-</span>
 <!--
 ## Hi there 👋
 **angelesmarinbatana/angelesmarinbatana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
