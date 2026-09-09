@@ -16,7 +16,7 @@ When I'm not working, you can find me running, listening to music and making pla
 ### 💌 Let's chat:
 I'm always looking to make new friends and connect with people from all over! Drop me a message or connect if you'd like to collaborate!
 
- → [amarinba@nd.edu](mailto:amarinba@nd.edu)
+ → [email](mailto:amarinba@nd.edu)
 
  
  → [LinkedIn](https://www.linkedin.com/in/angeles-marin-batana/)
