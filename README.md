@@ -1,7 +1,7 @@
 
 # Hola, qué tal? 😄
 
-### Mi nombre es **Angeles** y soy una **latina** de **primera generación**, haciendo mi **maestría** en informática e ingeniería en **University of Notre Dame**
+### Mi nombre es **Angeles** y soy una **latina** de **primera generación** haciendo mi **maestría** en informática e ingeniería en **University of Notre Dame**
 
 - 🌸 **Background**: B.S Computer Science; B.S Spanish; Sociology minor
 - 🌸 **Research focus:** responsible & aligned ML systems
