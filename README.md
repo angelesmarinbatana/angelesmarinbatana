@@ -9,7 +9,7 @@
 ~~
 
 ### Hobbies & Interests:
-When I'm not working, you can find me running, listening to music and making playlists on spotify, hiking, or learning chess on Duolingo.
+When I'm not working, you can find me running, listening to music and making playlists on spotify, hiking, and learning chess on Duolingo.
 
 ~~
 
